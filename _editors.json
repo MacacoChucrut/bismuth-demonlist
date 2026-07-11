@@ -13,5 +13,10 @@
         "role": "owner",
         "name": "MacacoChucrut",
         "link": ""
+    },
+     {
+        "role": "Admin",
+        "name": "VerTix",
+        "link": ""
     }
 ]
